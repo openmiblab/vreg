@@ -139,7 +139,7 @@ different breath holding positions:
 
 
 .. image-sg:: /generated/examples/images/sphx_glr_plot_3d_mask_translation_001.png
-   :alt: Before 3D translation
+   :alt: plot 3d mask translation
    :srcset: /generated/examples/images/sphx_glr_plot_3d_mask_translation_001.png
    :class: sphx-glr-single-img
 
@@ -203,7 +203,7 @@ is significantly reduced:
 
 
 .. image-sg:: /generated/examples/images/sphx_glr_plot_3d_mask_translation_002.png
-   :alt: After 3D translation
+   :alt: plot 3d mask translation
    :srcset: /generated/examples/images/sphx_glr_plot_3d_mask_translation_002.png
    :class: sphx-glr-single-img
 
@@ -214,7 +214,7 @@ is significantly reduced:
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (4 minutes 10.542 seconds)
+   **Total running time of the script:** (2 minutes 35.042 seconds)
 
 
 .. _sphx_glr_download_generated_examples_plot_3d_mask_translation.py:

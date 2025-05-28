@@ -246,7 +246,7 @@ plane:
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (4 minutes 36.951 seconds)
+   **Total running time of the script:** (2 minutes 15.056 seconds)
 
 
 .. _sphx_glr_download_generated_examples_plot_reslicing.py:

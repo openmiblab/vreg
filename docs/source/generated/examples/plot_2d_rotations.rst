@@ -329,7 +329,7 @@ resliced at an angle so we see it in a different plane.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (0 minutes 3.891 seconds)
+   **Total running time of the script:** (0 minutes 0.954 seconds)
 
 
 .. _sphx_glr_download_generated_examples_plot_2d_rotations.py:

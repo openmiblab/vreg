@@ -238,7 +238,7 @@ Plot the result
 
 
 .. image-sg:: /generated/examples/images/sphx_glr_plot_3d_multislice_translation_t2_003.png
-   :alt: Left kidney alignment
+   :alt: plot 3d multislice translation t2
    :srcset: /generated/examples/images/sphx_glr_plot_3d_multislice_translation_t2_003.png
    :class: sphx-glr-single-img
 
@@ -283,7 +283,7 @@ Plot the result
 
 
 .. image-sg:: /generated/examples/images/sphx_glr_plot_3d_multislice_translation_t2_004.png
-   :alt: Right kidney alignment
+   :alt: plot 3d multislice translation t2
    :srcset: /generated/examples/images/sphx_glr_plot_3d_multislice_translation_t2_004.png
    :class: sphx-glr-single-img
 
@@ -294,7 +294,7 @@ Plot the result
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (22 minutes 39.181 seconds)
+   **Total running time of the script:** (13 minutes 24.100 seconds)
 
 
 .. _sphx_glr_download_generated_examples_plot_3d_multislice_translation_t2.py:

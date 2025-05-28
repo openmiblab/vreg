@@ -6,7 +6,7 @@
 
 Computation times
 =================
-**04:36.951** total execution time for 5 files **from generated\examples**:
+**13:24.100** total execution time for 5 files **from generated\examples**:
 
 .. container::
 
@@ -32,8 +32,8 @@ Computation times
    * - Example
      - Time
      - Mem (MB)
-   * - :ref:`sphx_glr_generated_examples_plot_reslicing.py` (``plot_reslicing.py``)
-     - 04:36.951
+   * - :ref:`sphx_glr_generated_examples_plot_3d_multislice_translation_t2.py` (``plot_3d_multislice_translation_t2.py``)
+     - 13:24.100
      - 0.0
    * - :ref:`sphx_glr_generated_examples_plot_2d_rotations.py` (``plot_2d_rotations.py``)
      - 00:00.000
@@ -44,6 +44,6 @@ Computation times
    * - :ref:`sphx_glr_generated_examples_plot_3d_multislice_translation_t1.py` (``plot_3d_multislice_translation_t1.py``)
      - 00:00.000
      - 0.0
-   * - :ref:`sphx_glr_generated_examples_plot_3d_multislice_translation_t2.py` (``plot_3d_multislice_translation_t2.py``)
+   * - :ref:`sphx_glr_generated_examples_plot_reslicing.py` (``plot_reslicing.py``)
      - 00:00.000
      - 0.0

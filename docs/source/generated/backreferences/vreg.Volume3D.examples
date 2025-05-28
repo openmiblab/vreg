@@ -15,24 +15,24 @@ Examples using ``vreg.Volume3D``
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="This examples illustrates how vreg can be used to slice 3D volumes in  different ways.">
+    <div class="sphx-glr-thumbcontainer" tooltip="This example illustrates 2D to 3D coregistration using 3D translations">
 
 .. only:: html
 
-  .. image:: /generated/examples/images/thumb/sphx_glr_plot_reslicing_thumb.png
+  .. image:: /generated/examples/images/thumb/sphx_glr_plot_3d_multislice_translation_t2_thumb.png
     :alt:
 
-  :ref:`sphx_glr_generated_examples_plot_reslicing.py`
+  :ref:`sphx_glr_generated_examples_plot_3d_multislice_translation_t2.py`
 
 .. raw:: html
 
-      <div class="sphx-glr-thumbnail-title">Coronal, sagittal, axial and oblique</div>
+      <div class="sphx-glr-thumbnail-title">Multislice 2D to 3D translation (T2*)</div>
     </div>
 
 
 .. only:: not html
 
- * :ref:`sphx_glr_generated_examples_plot_reslicing.py`
+ * :ref:`sphx_glr_generated_examples_plot_3d_multislice_translation_t2.py`
 
 .. thumbnail-parent-div-close
 

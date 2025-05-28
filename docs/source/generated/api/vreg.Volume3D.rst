@@ -27,6 +27,11 @@
       ~Volume3D.reslice
       ~Volume3D.rotate
       ~Volume3D.rotate_to
+      ~Volume3D.separate
+      ~Volume3D.set_affine
+      ~Volume3D.set_coords
+      ~Volume3D.set_dims
+      ~Volume3D.set_values
       ~Volume3D.slice_like
       ~Volume3D.split
       ~Volume3D.stretch
@@ -40,6 +45,7 @@
       ~Volume3D.transform_to
       ~Volume3D.translate
       ~Volume3D.translate_to
+      ~Volume3D.truncate
    
    
 
@@ -51,7 +57,14 @@
       :toctree: Volume3D
    
       ~Volume3D.affine
+      ~Volume3D.col_dir
+      ~Volume3D.coords
+      ~Volume3D.dims
+      ~Volume3D.ndim
+      ~Volume3D.prec
+      ~Volume3D.row_dir
       ~Volume3D.shape
+      ~Volume3D.slice_dir
       ~Volume3D.spacing
       ~Volume3D.values
    

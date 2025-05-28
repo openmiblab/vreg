@@ -14,8 +14,9 @@ Functions to read and write vreg volumes to disk.
    :recursive:
 
    write_npz
-   write_nifti
    read_npz
    read_nifti
+   write_nifti
+   create_zarr
 
 
