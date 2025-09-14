@@ -1,0 +1,6 @@
+vreg.Volume3D.is\_right\_handed
+===============================
+
+.. currentmodule:: vreg
+
+.. autoproperty:: Volume3D.is_right_handed
